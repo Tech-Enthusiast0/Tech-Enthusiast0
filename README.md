@@ -1,8 +1,7 @@
 Hi, I am Tech Enthusiast 
 
-Cybersecurity | OSINT | Cyber Threat Intelligence Analyst 
 
-Cybersecurity enthusiast with a strong core practical hands-on skills and experience in Open Source Intelligence, vulnerability analysis, threat mitigation, incident response, and network security.
+I am a Cybersecurity and OSINT analyst with a strong core practical hands-on skills and experience in security analysis, Open Source Intelligence, vulnerability management, threat mitigation, incident response, and network security.
 
 
 CORE COMPETENCE
