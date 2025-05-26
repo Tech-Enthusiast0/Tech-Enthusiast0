@@ -17,7 +17,7 @@ SECURITY TOOLS PROFICIENCY
  Linux, Python, Wireshark, Nmap, Metasploit, SpiderFoot, 
  Sherlock, Recon-ng, The-Harvester, etc.
 
-You can connect with me via my e-mail address: preciousvincentct@gmail.com
+You can connect with me via: preciousvincentct@gmail.com
 
 I write and share security and OSINTers knowledge on my medium account: https://medium.com/@preciousvincentct/finding-a-person-of-interest-f6a5fc24c909
 
