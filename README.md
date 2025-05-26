@@ -8,7 +8,7 @@ Cybersecurity enthusiast with a strong core practical hands-on skills ans experi
 CORE COMPETENCE
 
 • Security Research and Investigation 
-• Threat Dtection and Mitigation 
+• Threat Detection and Mitigation 
 • Network Security 
 • Vulnerability Managment 
 
